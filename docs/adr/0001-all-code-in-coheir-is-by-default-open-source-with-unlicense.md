@@ -1,4 +1,4 @@
-# 0001 All code in Coheir is - by default - open source with unlicense
+# All code in Coheir is - by default - open source with unlicense
 
 * Deciders: Johny Woller Skovdal, David Dyrholm and Carsten Jørgensen
 * Status: Approved

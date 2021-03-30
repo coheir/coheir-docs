@@ -1,4 +1,4 @@
-# 0002 All code will be hosted on GitHub under the Coheir org
+# All code will be hosted on GitHub under the Coheir org
 
 * Deciders: Johny Woller Skovdal
 
