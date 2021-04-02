@@ -1,4 +1,12 @@
-# Architectural Decision Logs
+# Detailed docs for Coheir
+
+If you did not find what you where looking for in the [root README](/README.md), this page hopefully has the details you need.
+
+## Booking spec
+
+The first large project in Coheir is a complete rewrite of a booking system targeting festivals and campsites. You can find more about that under [Booking](booking-spec/index.md).
+
+## Architectural Decision Logs
 
 This log lists the architectural decisions logs for all Coheir projects.
 
